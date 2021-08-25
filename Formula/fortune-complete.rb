@@ -1,5 +1,5 @@
 class FortuneComplete < Formula
-  desc "Infamous electronic fortune-cookie generator, including offensive files for analysis"
+  desc "Well-known fortune-cookie generator, including offensive files for analysis"
   homepage "https://www.ibiblio.org/pub/linux/games/amusements/fortune/!INDEX.html"
   url "https://www.ibiblio.org/pub/linux/games/amusements/fortune/fortune-mod-9708.tar.gz"
   mirror "https://src.fedoraproject.org/repo/pkgs/fortune-mod/fortune-mod-9708.tar.gz/81a87a44f9d94b0809dfc2b7b140a379/fortune-mod-9708.tar.gz"
